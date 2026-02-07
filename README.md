@@ -1,4 +1,5 @@
 <img width="922" height="612" alt="image" src="https://github.com/user-attachments/assets/556e889d-22b7-4d35-a87f-882ba40eb43f" />
+
 Its the idea related to focused streaming, we are fortunate that we can watch anything around the world,
 through YouTube platforms, but as a commercial service sector, its meant for all sorts of audience, and hence
 the accountability to stay focused is low. When we are watching one video we see tons of other videos at side, explore section
