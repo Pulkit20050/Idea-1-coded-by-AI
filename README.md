@@ -8,3 +8,4 @@ we also have bigthink, ted, internet archive, and wikipedia. For reading and wat
 to this tool, its minimal, no ads, videos, just a simple search, and which site you want to visit.
 You can also quotes that inspires you, and the suggested reads, as it makes it even more convenient to get your exploration done without
 spending much energy. 
+To try visit "https://pulkit20050.github.io/Idea-1-coded-by-AI/"
